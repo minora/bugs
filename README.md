@@ -1,8 +1,8 @@
 ## Should I post an issue?
-* If your issue is related to individual payments or account support, please email support@minora.me instead of posting the issue here.
+* If your issue is related to individual payments or account support, please email support@minora.io instead of posting the issue here.
 
 > #### **Important**
-> If you believe you have identified a security vulnerability within the network, report it as soon as possible via email to **exploits@minora.me**.
+> If you believe you have identified a security vulnerability within the network, report it as soon as possible via email to **exploits@minora.io**.
 > A member of the MinoraNetwork security team will respond to the issue.
 > Please do not post it to the public bug tracker.
 
