@@ -1,3 +1,7 @@
+# <img alt="Minora Bugs" src="https://i.imgur.com/4M7TIwe.png" />
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/minora/bugs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Should I post an issue?
 * If your issue is related to individual payments or account support, please email support@minora.io instead of posting the issue here.
 
@@ -12,5 +16,5 @@ Creating a new issue on the tracker is simple:
 1. Use the search bar on the top navigation bar to search for your issue first, if it doesn't exist keep following these steps.
 2. Head to **[minora/bugs/issues/new](https://github.com/minora/bugs/issues/new)**
 3. Give the issue an appropriate title __Upgrade not working__ instead of __Upgrade__ - remember specific titles can help use eradicate duplicates on the public and internal issue tracker.
-4. Describe the issue with a short summary, followed by steps on how to reproduce the issue - **[dillinger.io](http://dillinger.io/)** describes the markdown syntax to use for formating. 
+4. Describe the issue with a short summary, followed by steps on how to reproduce the issue - **[dillinger.io](http://dillinger.io/)** describes the markdown syntax to use for formating.
 5. __Pro Tip!__ Although this step is optional it's really helpful when (if possible) you can include a screenshot of the issue that you're describing (drag and drop works).
