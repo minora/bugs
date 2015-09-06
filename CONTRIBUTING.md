@@ -18,3 +18,7 @@ Creating a new issue on the tracker is simple:
 3. Give the issue an appropriate title __Upgrade not working__ instead of __Upgrade__ - remember specific titles can help use eradicate duplicates on the public and internal issue tracker.
 4. Describe the issue with a short summary, followed by steps on how to reproduce the issue - **[dillinger.io](http://dillinger.io/)** describes the markdown syntax to use for formating.
 5. __Pro Tip!__ Although this step is optional it's really helpful when (if possible) you can include a screenshot of the issue that you're describing (drag and drop works).
+
+## Contributor License Agreement
+
+In order to get your pull requests accepted, please sign: **[Minora CLA](https://cla-assistant.io/minora/bugs)**
