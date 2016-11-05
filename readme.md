@@ -1,13 +1,13 @@
-# <img alt="Bugs Logo" src="https://img.minora.io/banner/github/bugs.png" />
+# ![Minora Bugs Logo](https://assets.minora.io/oss/bugs.svg)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/minora/bugs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/minora/bugs)
 
 ## Should I post an issue?
 * If your issue is related to individual payments or account support, please email support@minora.io instead of posting the issue here.
 
 > #### **Important**
 > If you believe you have identified a security vulnerability within the network, report it as soon as possible via email to **exploits@minora.io**.
-> A member of the MinoraNetwork security team will respond to the issue.
+> A member of the Minora Network security team will respond to the issue.
 > Please do not post it to the public bug tracker.
 
 ## Posting an issue
